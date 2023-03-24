@@ -1,0 +1,11 @@
+name: learn
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - joblib
+  - scipy
+  - scikit-learn
+  - h5py
+prefix: /home/okperson/miniconda3/envs/learn
